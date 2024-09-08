@@ -1,2 +1,7 @@
-
-/* Your CSS Code here. */
+.nav{
+	list-style-type:none;
+	display:flex;
+	justify-content:space-between;
+	background-color:skyblue;
+	padding:20px;
+}
